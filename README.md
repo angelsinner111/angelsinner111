@@ -1,7 +1,7 @@
 <h3 align="center">🖤 AngelSinner — building autonomous AI agents</h3>
 
 <p align="center">
-  I'm <b>Egor</b> · 18 · founder of <a href="https://agentnine.io">Agent Nine</a> · based in Astana, Kazakhstan 🇰🇿<br/>
+  I'm <b>Egor</b> · 18 · founder of <a href="https://agentnine.io">Agent Nine</a> · based in Astana, Kazakhstan <img src="https://flagcdn.com/20x15/kz.png" alt="KZ" /><br/>
   <i>an autonomous AI coding agent you control from your phone</i>
 </p>
 
@@ -13,7 +13,7 @@
 
 **[clinic.agentnine.io](https://clinic.agentnine.io)** — production AI assistant for clinics: booking, every channel (Telegram / WhatsApp / Instagram), CRM & analytics.
 
-**[learn.agentnine.io](https://learn.agentnine.io)** — education platform: schools & courses run their own programs with real AI-agent mentoring (B2B2C).
+**[learn.agentnine.io](https://learn.agentnine.io)** — education platform: schools & courses run their own programs with real AI-agent mentoring.
 
 ### 🛠 Stack
 
@@ -32,6 +32,8 @@
 ### 🔒 About my repos
 
 My best work lives in **private repos** — the moat stays hidden. Want to see it? It's **live, not on GitHub** → **[agentnine.io](https://agentnine.io)**
+
+🌱 Planning to **open-source part of it soon.**
 
 ---
 
