@@ -1,7 +1,7 @@
 <h3 align="center">🖤 AngelSinner — building autonomous AI agents</h3>
 
 <p align="center">
-  I'm <b>Egor</b> · 18 · founder of <a href="https://agentnine.io">Agent Nine</a><br/>
+  I'm <b>Egor</b> · 18 · founder of <a href="https://agentnine.io">Agent Nine</a> · based in Astana, Kazakhstan 🇰🇿<br/>
   <i>an autonomous AI coding agent you control from your phone</i>
 </p>
 
@@ -13,17 +13,21 @@
 
 **[clinic.agentnine.io](https://clinic.agentnine.io)** — production AI assistant for clinics: booking, every channel (Telegram / WhatsApp / Instagram), CRM & analytics.
 
+**[learn.agentnine.io](https://learn.agentnine.io)** — education platform: schools & courses run their own programs with real AI-agent mentoring (B2B2C).
+
 ### 🛠 Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24C8DB?logo=tauri&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-
-`TypeScript` · `Bun` · `Fastify + WebSocket` · `Tauri` · `Next.js` · `PostgreSQL` · `Docker` · `LLM / agentic AI`
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bun-14151A?style=for-the-badge&logo=bun&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fastify-202020?style=for-the-badge&logo=fastify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM%20%26%20AI%20Agents-6E56CF?style=for-the-badge&logo=probot&logoColor=white"/>
+</p>
 
 ### 🔒 About my repos
 
