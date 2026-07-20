@@ -9,7 +9,7 @@
 
 ### 🚀 What I'm building
 
-**[Agent Nine](https://agentnine.io)** — an autonomous AI dev agent with its **own runtime & protocol** (not a VS Code / Claude wrapper). Send it a task from your phone — it runs on your real machine or server while you're away. Bash, sub-agents, full code execution, safeguards against destructive actions, self-hostable. Powered by Anthropic Claude with smart routing.
+**[Agent Nine](https://agentnine.io)** — an autonomous AI dev agent with its **own runtime & protocol** (not a VS Code / Claude wrapper). Send it a task from your phone — it runs on your real machine or server while you're away. Bash, sub-agents, full code execution, safeguards against destructive actions. Powered by Anthropic Claude with smart routing.
 
 **[clinic.agentnine.io](https://clinic.agentnine.io)** — production AI assistant for clinics: booking, every channel (Telegram / WhatsApp / Instagram), CRM & analytics.
 
@@ -36,6 +36,10 @@ My best work lives in **private repos** — the moat stays hidden. Want to see i
 🌱 Planning to **open-source part of it soon.**
 
 ---
+
+<p align="center">
+  <sub><i>Into Lil Peep &amp; good ice cream · heading toward Encinitas 🌊</i></sub>
+</p>
 
 <p align="center"><i>What's the deal, bruh?</i></p>
 
