@@ -37,10 +37,6 @@ My best work lives in **private repos** — the moat stays hidden. Want to see i
 
 ---
 
-<p align="center">
-  <sub><i>Into Lil Peep &amp; good ice cream · heading toward Encinitas 🌊</i></sub>
-</p>
-
-<p align="center"><i>What's the deal, bruh?</i></p>
+<h3 align="center">Bump Lil Peep &amp; good ice cream · heading toward Encinitas 🌊</h3>
 
 <!-- profile readme -->
